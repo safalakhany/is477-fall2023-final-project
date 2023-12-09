@@ -1,5 +1,5 @@
 # is477-fall2023-final-project
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10067574.svg)](https://doi.org/10.5281/zenodo.10067574)
 # Overview 
 
 The Car Evaluation Database, assesses car acceptability based on attributes like buying price, maintenance cost, technical characteristics, comfort, and safety. It summarizes the dataset by directly correlating car acceptability (CAR) with six input attributes: buying, maint, doors, persons, lug_boot, and safety. This database is ideal for research in constructive induction and structure discovery due to its known underlying concept structure.
